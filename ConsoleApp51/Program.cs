@@ -11,7 +11,7 @@ namespace ConsoleApp51
         void func(bool condition)
         {
             if (condition)  // Noncompliant
-            DoTheThing();
+           DoTheThing();
 
             DoTheOtherThing();
             SomethingElseEntirely();
